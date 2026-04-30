@@ -1,0 +1,8 @@
+{
+  "label": "Arquitecture",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Documentacion sobre la arquitectura del proyecto chatbot 3"
+  }
+}
